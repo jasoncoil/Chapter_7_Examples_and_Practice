@@ -1,0 +1,26 @@
+All projects are located in sample folder
+
+Different dialog box examples:
+
+Description: A list of simple tests learning how to use a different dialog boxes in javafx
+1. Name: GridPaneTest
+2. Name: FlowPlaneTest
+3. Name: HBoxVBoxTest
+4. Name: BorderPaneTest
+
+-The "DialogBoxExample" ties together all different dialog boxes together into a 9 button interface each displaying a different a dialog box when clicked.
+
+The "FilerChooser" and "ColorPickerExample" projects are getting used to different classes (colorpicker and filechooser classes in java)
+
+Final Large Example - EMAILBUDDY:
+Description of Application: This application displays friends on a list which you can add (inserting name and email address and whether or not they are hot (you talk to them 
+often)). You can remove friends from the list, toggle hotlist which shows which friends are hot, and edit friends information by double clicking on their name.
+MODEL:
+"EmailBuddy" and "EmailBuddyList" are the model portion of the application
+"EmailBuddyModelTest" is just testing parts of the model
+VIEW:
+"EmailBuddyPanel" is the view of the application
+CONTROLLER:
+"EmailBuddyApp" is the controller of the application.
+DIALOGBOX:
+"BuddyDetailsDialog" is a specially created dialog box for adding friends to the list.
